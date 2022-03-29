@@ -1,0 +1,27 @@
+[
+    {
+      "Name": "Jenny Chan",
+      "Code": "java",
+      "salary": "30000",
+      "department": "testing"
+    },
+    {
+      "Name": "Jessica warren",
+      "Code": "javascript",
+      "salary": "40000",
+      "department": "development"
+    },
+    {
+      "Name": "Tony Frank",
+      "Code": "phython",
+      "salary": "50000",
+      "department": "cybersecurity"
+    },
+    {
+      "Name": "Jeremy Clark",
+      "Code": "reactjs",
+      "salary": "45000",
+      "department": "developer"
+    }
+    
+  ]
